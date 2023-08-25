@@ -1,0 +1,1 @@
+DOMAINS = {'achinsk', 'berdsk', 'krsk', 'nsk', 'omsk', 'tomsk'}

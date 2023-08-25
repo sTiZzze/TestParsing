@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "parsing"
+version = "0.1.0"
+description = "test task for RocketData"
+authors = ["Vadim Bulai"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+lxml = "^4.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
